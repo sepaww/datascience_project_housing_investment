@@ -6,3 +6,4 @@ taskat:
  - graphs
  - pages.io website
  - technical report
+ - pp pitch
