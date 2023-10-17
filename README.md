@@ -7,6 +7,14 @@ taskat:
  - pages.io website-
  - technical report
  - pp pitch-
-
+ - nettisivu alku ja loppu tiivistelmä
+ - technical report:
+    - datan keruu
+    - pre prossat
+    - machine lerni
+    - visualisas
+    - websit
+      
+ 
 
 
